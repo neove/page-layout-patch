@@ -1,0 +1,14 @@
+src/
+node_modules/
+.gitignore
+.babelrc
+concat-file.js
+examples/
+yarn.lock
+.npmignore
+yarn-error.log
+webpack.config.js
+.npmrc
+.babelrc
+CHANGELOG.md
+__tests__

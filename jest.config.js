@@ -1,0 +1,1 @@
+module.exports = require('@talentui/tools/jest')();

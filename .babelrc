@@ -1,0 +1,15 @@
+{
+    "presets": [
+        ["env", {
+            "targets": {
+                "browsers": "ie > 9"
+            }
+        }],
+        "stage-0",
+        "react"
+    ],
+    "plugins": [
+        "syntax-dynamic-import", 
+        "transform-decorators-legacy"
+    ]
+}
